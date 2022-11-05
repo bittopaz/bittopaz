@@ -1,3 +1,1 @@
-### Hi there 👋
-
-![Metrics](https://metrics.lecoq.io/bittopaz?template=classic&repositories.affiliations=owner%2C%20collaborator%2C%20organization_member&base.indepth=false&base.hireable=false&config.timezone=Asia%2FShanghai&config.display=large)
+![Metrics](https://metrics.lecoq.io/bittopaz?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai&config.display=large)
